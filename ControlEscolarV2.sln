@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosLinqEscolar", "ServiciosLinqEscolar\ServiciosLinqEscolar.csproj", "{1743AAAB-7842-42F3-8165-758EBB936C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontendEscolar", "FrontendEscolar\FrontendEscolar.csproj", "{B242579E-6FBB-4F44-81E3-ACEC7CCB63D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1743AAAB-7842-42F3-8165-758EBB936C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1743AAAB-7842-42F3-8165-758EBB936C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1743AAAB-7842-42F3-8165-758EBB936C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1743AAAB-7842-42F3-8165-758EBB936C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B242579E-6FBB-4F44-81E3-ACEC7CCB63D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B242579E-6FBB-4F44-81E3-ACEC7CCB63D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B242579E-6FBB-4F44-81E3-ACEC7CCB63D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B242579E-6FBB-4F44-81E3-ACEC7CCB63D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A946B43D-BACF-4E8E-AE8D-78731FD8BCCC}
+	EndGlobalSection
+EndGlobal

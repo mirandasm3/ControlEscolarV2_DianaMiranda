@@ -1,0 +1,16 @@
+﻿<Window x:Class="FrontendEscolar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrontendEscolar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="276" Width="488">
+    <Grid Height="NaN" Margin="0,0,0,-6" Width="NaN">
+        <Label Content="Iniciar sesión" HorizontalAlignment="Left" Margin="208,34,0,0" VerticalAlignment="Top"/>
+        <PasswordBox HorizontalAlignment="Left" Margin="94,133,0,0" VerticalAlignment="Top" Width="307" Height="33"/>
+        <TextBox HorizontalAlignment="Left" Margin="94,82,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="307" Height="33"/>
+        <Button Content="Iniciar sesión" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+
+    </Grid>
+</Window>
